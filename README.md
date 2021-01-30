@@ -1,3 +1,1 @@
-# web-platform-fy1ggz
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-fy1ggz)
+Create a simple navbar using html and css
